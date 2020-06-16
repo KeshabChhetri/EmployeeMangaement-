@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+<servlet>
+<servlet-name>eRegister</servlet-name>
+<servlet-class>com.EmployeeRegister.EmployeeRegister</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>eRegister</servlet-name>
+<url-pattern>/eRegister</url-pattern>
+</servlet-mapping>
+
+
+</web-app>
